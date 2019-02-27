@@ -7,7 +7,8 @@
 
 
 class Empty {
-
+public:
+    void doesThing();
 };
 
 
